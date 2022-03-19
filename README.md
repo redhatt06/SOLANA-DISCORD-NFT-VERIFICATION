@@ -14,7 +14,7 @@ You need to create a discord application from discord's developer portal, invite
 
 First install the dependencies
 ```javascript
-npm install-all
+npm run install-all
 ```
 then you can run the app concurrently with
 ```javascript
